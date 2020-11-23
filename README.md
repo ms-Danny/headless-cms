@@ -1,4 +1,4 @@
-# test
+# Headless CMS
 
 ## Project setup
 ```
